@@ -104,4 +104,4 @@ while True:
         decs_of_article = take_decs_user_input(total_results)
         print(articles[decs_of_article-1]['description'])
 
-print("Thank you for using our app!")
+print("Thank you for using our app")
